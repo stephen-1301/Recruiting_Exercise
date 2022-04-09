@@ -1,0 +1,86 @@
+9/4/2022 12:42:20	This log contains information about the import schema operation into project 'Database' on computer 'DESKTOP-9EHECVB' by user 'Stephen'.
+9/4/2022 12:42:21	Import of database schema has started.
+9/4/2022 12:42:32	Gathering database credentials
+9/4/2022 12:42:32	Gathering database options
+9/4/2022 12:42:32	Gathering generic database scoped configuration option
+9/4/2022 12:42:32	Gathering users
+9/4/2022 12:42:32	Gathering roles
+9/4/2022 12:42:32	Gathering application roles
+9/4/2022 12:42:32	Gathering role memberships
+9/4/2022 12:42:32	Gathering filegroups
+9/4/2022 12:42:32	Gathering full-text catalogs
+9/4/2022 12:42:32	Gathering assemblies
+9/4/2022 12:42:32	Gathering certificates
+9/4/2022 12:42:32	Gathering asymmetric keys
+9/4/2022 12:42:32	Gathering symmetric keys
+9/4/2022 12:42:32	Gathering encrypted symmetric keys
+9/4/2022 12:42:32	Gathering schemas
+9/4/2022 12:42:32	Gathering XML schema collections
+9/4/2022 12:42:32	Gathering user-defined data types
+9/4/2022 12:42:32	Gathering user-defined types
+9/4/2022 12:42:32	Gathering table types
+9/4/2022 12:42:32	Gathering unique keys for table types
+9/4/2022 12:42:32	Gathering primary keys for table types
+9/4/2022 12:42:32	Gathering indexes for table types
+9/4/2022 12:42:32	Gathering check constraints for table types
+9/4/2022 12:42:32	Gathering default constraints for table types
+9/4/2022 12:42:32	Gathering partition functions
+9/4/2022 12:42:32	Gathering partition schemes
+9/4/2022 12:42:37	Gathering functions
+9/4/2022 12:42:37	Gathering encrypted functions
+9/4/2022 12:42:37	Gathering aggregates
+9/4/2022 12:42:37	Gathering procedures
+9/4/2022 12:42:37	Gathering encrypted procedures
+9/4/2022 12:43:02	Gathering tables
+9/4/2022 12:43:27	Gathering primary keys
+9/4/2022 12:43:27	Gathering unique constraints
+9/4/2022 12:43:27	Gathering foreign keys
+9/4/2022 12:43:27	Gathering default constraints
+9/4/2022 12:43:27	Gathering check constraints
+9/4/2022 12:43:27	Gathering views
+9/4/2022 12:43:27	Gathering encrypted views
+9/4/2022 12:43:27	Gathering indexes
+9/4/2022 12:43:27	Gathering statistics
+9/4/2022 12:43:27	Gathering full-text index stoplists
+9/4/2022 12:43:27	Gathering search property lists
+9/4/2022 12:43:27	Gathering search properties
+9/4/2022 12:43:27	Gathering full-text indexes
+9/4/2022 12:43:27	Gathering column store indexes
+9/4/2022 12:43:27	Gathering spatial indexes
+9/4/2022 12:43:54	Gathering XML indexes
+9/4/2022 12:43:54	Gathering Selective XML indexes
+9/4/2022 12:43:54	Gathering encrypted triggers
+9/4/2022 12:43:54	Gathering triggers
+9/4/2022 12:43:54	Gathering encrypted and clr ddl triggers
+9/4/2022 12:43:54	Gathering ddl triggers
+9/4/2022 12:43:54	Gathering synonyms
+9/4/2022 12:43:54	Gathering defaults
+9/4/2022 12:43:54	Gathering data constraint uddt bindings
+9/4/2022 12:43:54	Gathering rules
+9/4/2022 12:43:54	Gathering data constraint uddt bindings
+9/4/2022 12:43:54	Gathering message types
+9/4/2022 12:43:54	Gathering queues
+9/4/2022 12:43:54	Gathering contracts
+9/4/2022 12:43:54	Gathering services
+9/4/2022 12:43:54	Gathering event notifications
+9/4/2022 12:43:54	Gathering remote service bindings
+9/4/2022 12:43:54	Gathering broker priorities
+9/4/2022 12:43:54	Gathering signatures
+9/4/2022 12:43:54	Gathering data compression options
+9/4/2022 12:43:54	Gathering sequence types
+9/4/2022 12:43:54	Gathering security policies
+9/4/2022 12:43:54	Gather column encryption keys
+9/4/2022 12:43:54	Gathering column master keys
+9/4/2022 12:43:54	Gathering external data sources
+9/4/2022 12:43:54	Gathering external file formats
+9/4/2022 12:43:54	Gathering external tables
+9/4/2022 12:43:54	Gathering extended properties
+9/4/2022 12:43:54	Gathering assemblies
+9/4/2022 12:43:54	Gathering credentials
+9/4/2022 12:43:54	Gathering logins
+9/4/2022 12:43:54	Gathering server audits
+9/4/2022 12:43:55	Scanning project for duplicate elements
+9/4/2022 12:43:55	Finished duplicate element processing
+9/4/2022 12:43:55	Finished importing database.
+9/4/2022 12:43:55	A summary of the import was saved to the following location: C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\Import Schema Logs\Database_20220409064220.log
+9/4/2022 12:43:55	Click Finish to continue...

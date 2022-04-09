@@ -1,0 +1,6 @@
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\bin\Debug\Database.dacpac
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\bin\Debug\Database.dll
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\bin\Debug\Database.pdb
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\obj\Debug\Database.dll
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\Database\obj\Debug\Database.pdb

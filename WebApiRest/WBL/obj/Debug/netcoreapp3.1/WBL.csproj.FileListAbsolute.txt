@@ -1,0 +1,5 @@
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\WBL\obj\Debug\netcoreapp3.1\WBL.csproj.AssemblyReference.cache
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\WBL\obj\Debug\netcoreapp3.1\WBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\WBL\obj\Debug\netcoreapp3.1\WBL.AssemblyInfoInputs.cache
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\WBL\obj\Debug\netcoreapp3.1\WBL.AssemblyInfo.cs
+C:\Recruiting Exercise\Recruiting_Exercise\WebApiRest\WBL\obj\Debug\netcoreapp3.1\WBL.csproj.CoreCompileInputs.cache
